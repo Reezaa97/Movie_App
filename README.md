@@ -1,5 +1,5 @@
 # Movie_App
-## just UI
+## just Clone
 
 ### Using :
 
